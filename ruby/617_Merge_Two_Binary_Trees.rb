@@ -13,4 +13,3 @@
 def merge_trees(t1, t2)
     
 end
-
